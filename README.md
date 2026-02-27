@@ -1,0 +1,1 @@
+Hi! Download these files, open up vs code and create a folder for the project, put those files in, you can set up a .venv or global python, make sure the required packages are installed, run vergil.py, make sure u set judgement cut keybind to k. In game, press y to activate judgement cut simolatianously or smth.
