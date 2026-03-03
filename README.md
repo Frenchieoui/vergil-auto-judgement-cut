@@ -1,2 +1,5 @@
-Hi! Download these files, open up vs code and create a folder for the project, put those files in, you can set up a .venv or global python, make sure the required packages are installed, run vergil.py, make sure u set judgement cut keybind to k. In game, press y to activate consecutive judgement cut or smth.
+Hi! Download these files, setup python with vs code (look at yt tutorial or smth), make sure the required packages are installed, run vergil.py, make sure u set judgement cut keybind to k. 
+In game, press y to activate consecutive judgement cut or smth.
 for auto judgement cuts, press backspace to enable/disable it. it sometimes does consecutive for that but it mostly doesnt. it only does singular judgement cuts, use this if ur afk ig...
+you might want to check it every so often in case you have no more meter (i have hex glut so idk if it gives sufficnet meter on other traits)
+honestly, auto kinda sucks, might as well just use consecutive judgement cut (press y) urself but u can try it....
